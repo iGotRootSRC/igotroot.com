@@ -4,6 +4,6 @@ layout: home
 permalink: /
 ---
 
-## iGotRoot Blog
+## Posts
 
-Soon enough there'll be some blog posts and resources :-)
+
