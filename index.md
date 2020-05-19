@@ -1,5 +1,5 @@
 ---
-title: iGotRoot Blog
+title: Home
 layout: home
 permalink: /
 ---
