@@ -13,6 +13,7 @@ I am in no way responsible for the usage of these search queries.
 
 Be responsible thanks - https://www.bugcrowd.com/resource/what-is-responsible-disclosure/
 
+
 Basically I have compiled a list of interesting search terms and tags to utilize when discovering services.
 
 Check the Github repository: https://github.com/iGotRootSRC/Dorkers
