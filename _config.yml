@@ -1,6 +1,16 @@
-remote_theme: b2a3e8/jekyll-theme-console
-header_pages:
-- index.md
-- about.md
+title: 'iGotRoot Blog'
+description: "I write about security stuff..."
+baseurl: "/"
+url: "https://igotroot.com"
 
-footer: 'follow us on <a href="https://twitter.com/iGotRootBlog">twitter</a>'
+header_pages:
+  - index.md
+  - about.md
+
+style: dark
+
+footer: 'Follow me on <a href="https://twitter.com/iGotRootBlog">Twitter</a>'
+
+# Build settings
+markdown: kramdown
+remote_theme: b2a3e8/jekyll-theme-console
