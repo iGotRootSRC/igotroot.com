@@ -8,7 +8,7 @@ permalink: /about/
 
 
 I am a security enthusiast based out of Copenhagen, Denmark.
-For the past 4 years I've been working professionally in the security industry, on both the blue team and now the red team.
+For the past 7 years I've been working professionally in the security industry, on both the blue team and now the red team.
 
 
 I love exploring the internet, and finding web application exploits, and as such I have reported multiple vulnerabilites that I have discovered, to various companies.
@@ -25,5 +25,4 @@ To name a few of the more known ones:
 - Fynbus
 
 
-Besides that I work as a Senior Security Specialist at F-Secure currently, and happily doing so! :-)
 Follow me on Twitter where I occasionally Tweet stuff - [https://twitter.com/iGotRootBlog](https://twitter.com/iGotRootBlog)
