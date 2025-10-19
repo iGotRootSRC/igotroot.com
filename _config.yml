@@ -9,7 +9,7 @@ header_pages:
 
 style: dark
 
-footer: '<a href="https://twitter.com/iGotRootBlog?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @iGotRootBlog</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>'
+footer: '<a href="https://x.com/iGotRootBlog" class="twitter-follow-button" data-show-count="false">Follow @iGotRootBlog</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>'
 
 # Build settings
 markdown: kramdown
