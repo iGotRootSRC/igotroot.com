@@ -1,5 +1,5 @@
 ---
-title: iGotRoot
+title: Home
 layout: home
 permalink: /
 ---
