@@ -4,9 +4,6 @@ layout: home
 permalink: /
 ---
 
-## Posts
-
-
 I am a security enthusiast based out of Copenhagen, Denmark.
 I've been working professionally on offensive and defensive sides of security for 10+ years, still hungry and eager to learn and experiment.
 
@@ -26,3 +23,5 @@ To name a few of the more known ones:
 
 
 Follow me on X where I occasionally Tweet thoughts, resources and opinions. - [https://x.com/iGotRootBlog](https://x.com/iGotRootBlog)
+
+## Posts
