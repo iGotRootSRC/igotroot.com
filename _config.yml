@@ -14,5 +14,5 @@ footer: '<a href="https://twitter.com/iGotRootBlog?ref_src=twsrc%5Etfw" class="t
 # Build settings
 markdown: kramdown
 
-remote_theme: iGotRootSRC/jekyll-theme-console
+remote_theme: b2a3e8/jekyll-theme-console
 #b2a3e8/jekyll-theme-console
